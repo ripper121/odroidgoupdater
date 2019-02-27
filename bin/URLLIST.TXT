@@ -1,12 +1,9 @@
-https://api.github.com/repos/Schuemi/fMSX-go/releases/latest
-https://api.github.com/repos/Schuemi/c64-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/frodo-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/stella-odroid-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/prosystem-odroid-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/go-play/releases/latest
 https://api.github.com/repos/OtherCrashOverride/bt-keyboard-go/releases/latest
-https://api.github.com/repos/OtherCrashOverride/nes-mp-go/releases/latest
 https://api.github.com/repos/asirinelli/odroid-go-bb8/releases/latest
 https://api.github.com/repos/vbrusca/FlappyBirdCloneOdroidGo/releases/latest
 https://api.github.com/repos/mad-ady/doom-odroid-go/releases/latest
