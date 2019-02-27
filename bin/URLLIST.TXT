@@ -1,3 +1,4 @@
+https://api.github.com/repos/ripper121/odroidgoupdater/releases/latest
 https://api.github.com/repos/OtherCrashOverride/frodo-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go/releases/latest
 https://api.github.com/repos/OtherCrashOverride/stella-odroid-go/releases/latest
