@@ -11,3 +11,4 @@ https://api.github.com/repos/mad-ady/doom-odroid-go/releases/latest
 https://api.github.com/repos/mad-ady/doom-ng-odroid-go/releases/latest
 https://api.github.com/repos/ripper121/OdroidGoOSMGPSOffline/releases/latest
 https://api.github.com/repos/ripper121/odroidgowifisniffer/releases/latest
+https://api.github.com/repos/mattkj/super-go-play/releases/latest
