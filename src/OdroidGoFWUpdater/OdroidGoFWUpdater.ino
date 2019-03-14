@@ -98,10 +98,10 @@ void readFileSize(fs::FS &fs, const char * path) {
   }
   int fileSize = file.size();
   file.close();
-  if (fileSize <= 0){
+  if (fileSize <= 0) {
     GO.lcd.println("Delete file because <= 0 Byte. (Corrupted)");
-    deleteFile(SD, path);    
-  }else{
+    deleteFile(SD, path);
+  } else {
     GO.lcd.print("File size:");
     GO.lcd.println(fileSize);
   }
@@ -214,6 +214,9 @@ void setup() {
   GO.lcd.println("'");
   Serial.println();
 
+  //delete old wifi Credentials
+  WiFi.disconnect();
+  
   WiFi.begin(WifiSSID.c_str(), WifiPSK.c_str());
   Serial.println("MAC:");
   Serial.println(WiFi.macAddress());
