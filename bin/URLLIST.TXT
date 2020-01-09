@@ -13,3 +13,4 @@ https://api.github.com/repos/ripper121/OdroidGoOSMGPSOffline/releases/latest
 https://api.github.com/repos/ripper121/odroidgowifisniffer/releases/latest
 https://api.github.com/repos/mattkj/super-go-play/releases/latest
 https://api.github.com/repos/Schuemi/c64-go/releases/latest
+https://api.github.com/repos/retro-esp32/RetroESP32/releases/latest
